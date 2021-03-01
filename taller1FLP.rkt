@@ -424,7 +424,8 @@
 -1 -1           0 3621 0 28 3 10 #"#lang eopl"
 0 0 24 29 1 #"\n"
 0 0 24 29 1 #"\n"
-0 0 17 3 10 #";;TALLER 1"
+0 0 17 3 53
+#";;TALLER 1 -Fundamentos de lenguajes de programaci\303\263n"
 0 0 24 29 1 #"\n"
 0 0 24 29 1 #"\n"
 0 0 17 3 44 #";;Diego Fabi\303\241n Ledesma Motta   1928161-3743"
